@@ -1,6 +1,6 @@
 <div align="left">
    
-**Aaradhyaa (Aria) Gyawali** — Cornell Information Science
+**Aaradhyaa Gyawali** — Cornell Information Science
 
 
 **→ Live at [aaradhyaa717.github.io/portfolio](https://aaradhyaa717.github.io/portfolio)**
